@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CellScripts
 - 👀 I’m interested in hacking and information security. 
-- 🌱 I’m currently learning C programming. 
+- 🌱 I’m currently learning Cloud security. 
 - 💞️ I’m looking to collaborate on any malware analysis project. 
 - 📫 How to reach me peter.davis873@gmail.com
 
