@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @CellScripts
-- 👀 I’m interested in hacking and information security. 
-- 🌱 I’m currently learning Cloud security. 
-- 💞️ I’m looking to collaborate on any malware analysis project. 
-- 📫 How to reach me peter.davis873@gmail.com
+whoami = {
 
-<!---
-CellScripts/CellScripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+"name": "CellScripts",
+"twitter":[Twitter Acc](https://mobile.twitter.com/cellscripts),
+"linkedin": [Linkedin](https://www.linkedin.com/in/peter-davis-b9812b1aa),
+"interests": "I’m interested in web/mobile/api hacking and information security",
+"learning": " I’m currently learning Cloud security",
+"collaboration": "I’m looking to collaborate on any hacking, cloudsec or malware analysis project",
+"email":[mail](mailto:peter.davis873@gmail.com)
+}
